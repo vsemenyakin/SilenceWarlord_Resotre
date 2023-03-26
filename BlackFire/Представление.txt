@@ -3,6 +3,9 @@
 
 Мы - группа прямого действия с опытом операций по поджогу. С вашей помощью через надёжную сеть добываем материалы и делаем так чтобы всё что принадлежит режиму пылало.
 
+Кошелёк:
+86DVjVVDXfriUzKQnVabbDgx3bGd9CNeTVqM94mApBVgNgxQ3reodEtgCkEz4oCPZURJ787fKU4LjEXtJDat1a5dLFyXmjC
+
 Подпись:
 -----BEGIN PUBLIC KEY-----
 MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDHvvbKxs9REOR+UUk8v0YqJlq/
@@ -10,3 +13,4 @@ Gial4Oq5VMWSLAJcL7cypWowGOCaX/tglTHpleYMmDpW3aT0sJFSeWS3Bz5Il28L
 UEvoLuSI1OkuIhdxD4n+KGTq9xFmIg7jJf5ES7DZplopfQCPi0pvKPqbYAcWzb8h
 lPypD3/CZE+sHLoV0QIDAQAB
 -----END PUBLIC KEY-----
+
