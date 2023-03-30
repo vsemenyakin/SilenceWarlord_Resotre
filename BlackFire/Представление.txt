@@ -1,16 +1,11 @@
-Группа: BlackFire
-Рейтинг: 0/0
+Silence Warlord - это хаб инициатив прямого действия по всей территории России
 
-Мы - группа прямого действия с опытом операций по поджогу. С вашей помощью через надёжную сеть добываем материалы и делаем так чтобы всё что принадлежит режиму пылало.
+Здесь вы можете:
+1. Почитать (https://www.silence_warlord.com/results) об успешно проведённых акциях по всей территории России
+2. Поддержать (https://www.silence_warlord.com/donate) готовящиеся акции денежными средствами
+3. Зарегистрировать (https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%BD%D1%8B_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%B0_%D0%9A._%D0%94%D0%B8%D0%BA%D0%B0) свою группу и начать проводить (https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%BD%D1%8B_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%B0_%D0%9A._%D0%94%D0%B8%D0%BA%D0%B0) акции прямого действия
+4. Поддержать (https://www.google.com/) хаб денежными средствами.
 
-Кошелёк:
-86DVjVVDXfriUzKQnVabbDgx3bGd9CNeTVqM94mApBVgNgxQ3reodEtgCkEz4oCPZURJ787fKU4LjEXtJDat1a5dLFyXmjC
-
-Подпись:
------BEGIN PUBLIC KEY-----
-MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDHvvbKxs9REOR+UUk8v0YqJlq/
-Gial4Oq5VMWSLAJcL7cypWowGOCaX/tglTHpleYMmDpW3aT0sJFSeWS3Bz5Il28L
-UEvoLuSI1OkuIhdxD4n+KGTq9xFmIg7jJf5ES7DZplopfQCPi0pvKPqbYAcWzb8h
-lPypD3/CZE+sHLoV0QIDAQAB
------END PUBLIC KEY-----
-
+Инструкции и советы
+- Как работает хаб и почему ему можно доверять?
+ (https://www.google.com/)- Базовые советы по безопасной коммуникациии (https://www.google.com/)
